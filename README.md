@@ -25,5 +25,5 @@ Fashion MNIST (TensorFlow built-in dataset)
 ## Status
 Learning / practice project
 
-##Author
+## Author
 Gaurav More
